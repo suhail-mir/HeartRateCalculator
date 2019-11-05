@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EVMHR</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="prompt">Prompt</string>
+    <string name="recording_video">Recording video</string>
+    <string name="The_video_to_start">Video recording begins</string>
+    <string name="complete">Complete</string>
+    <string name="Open_the_equipment_failure">Failed to open device!</string>
+    <string name="not_support">This device does not yet support thisAPP</string>
+    <string name="initfail">Inititlizing Failed</string>
+    <string name="initing">Initializing</string>
+    <string name="stopped">Stopped</string>
+</resources>
